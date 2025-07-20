@@ -39,9 +39,23 @@ Let’s build something cool together 🚀
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugisugih&layout=compact&theme=radical)
+#### 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugisugih&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugisugih&hide=prs&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ### 📫 Reach me on
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sugih-pratama-nugraha)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:sugihpratamas@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sugih-pratama-nugraha)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sugihpratamas@gmail.com)
 
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugisugih/ugisugih/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugisugih/ugisugih/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ugisugih/ugisugih/output/pacman-contribution-graph.svg">
+</picture>
+
+###
