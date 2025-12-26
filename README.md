@@ -45,13 +45,14 @@ I believe great systems are built through **curiosity, iteration, and solid engi
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=hugging-face&logoColor=black)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 ---
 
 ## 📈 GitHub Activity
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugisugih&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugisugih&hide=prs&show_icons=true&theme=tokyonight&hide_rank=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugisugih&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ugisugih&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ugisugih&theme=tokyonight)
 
 ---
 
